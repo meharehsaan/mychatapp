@@ -1,6 +1,6 @@
 # mychatapp
 
-Github :: github.com/meharehsaan
+www.github.com/meharehsaan
 
 Languages	
 	JAVASCRIPT(AJAX)
@@ -17,3 +17,5 @@ MySQL database is used in the backend. Users password are hashed in the database
 You can change the users passwords or create new user.
 
 Styling and best UI interface is provided.
+
+       <---------------//END//--------------->
